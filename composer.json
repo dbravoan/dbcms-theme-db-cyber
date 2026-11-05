@@ -1,0 +1,16 @@
+{
+    "name": "dbravoan/dbcms-theme-db-cyber",
+    "type": "dbcms-theme",
+    "description": "Plantilla oficial dbCMS con estética cyber-terminal, Google Sans Code, acentos neón #00FF99 y canvas generativo de polígonos.",
+    "license": "MIT",
+    "require": {
+        "dbravoan/dbcms-core": "^1.0"
+    },
+    "extra": {
+        "dbcms": {
+            "identifier": "db-cyber",
+            "repository": "https://github.com/dbravoan/dbcms-theme-db-cyber",
+            "name": "dbCMS Cyber Theme (>_db)"
+        }
+    }
+}
